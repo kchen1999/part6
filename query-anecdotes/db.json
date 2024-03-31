@@ -3,32 +3,84 @@
     {
       "content": "If it hurts, do it more often",
       "id": "47145",
-      "votes": 0
+      "votes": 5
     },
     {
       "content": "Adding manpower to a late software project makes it later!",
       "id": "21149",
-      "votes": 0
+      "votes": 1,
+      "vote": 1
     },
     {
       "content": "The first 90 percent of the code accounts for the first 90 percent of the development time...The remaining 10 percent of the code accounts for the other 90 percent of the development time.",
       "id": "69581",
-      "votes": 0
+      "votes": 1
     },
     {
       "content": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
       "id": "36975",
-      "votes": 0
+      "votes": 4
     },
     {
       "content": "Premature optimization is the root of all evil.",
       "id": "25170",
-      "votes": 0
+      "votes": 1
     },
     {
       "content": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
       "id": "98312",
       "votes": 0
+    },
+    {
+      "content": "Federer is GOAT",
+      "likes": 0,
+      "id": "rb_XAX4",
+      "votes": 4
+    },
+    {
+      "content": "Djokovic is GOAT",
+      "votes": 1,
+      "id": "L1q8x_j"
+    },
+    {
+      "content": "Nadal is GOAT",
+      "votes": 0,
+      "id": "0W7NtMf"
+    },
+    {
+      "content": "Hello world",
+      "votes": 0,
+      "id": "OAgj-Qo"
+    },
+    {
+      "content": "Bye world",
+      "votes": 0,
+      "id": "EbKeeT3"
+    },
+    {
+      "content": "Good afternoon",
+      "votes": 0,
+      "id": "XHrHG6Q"
+    },
+    {
+      "content": "Tissue",
+      "votes": 0,
+      "id": "nWD9uv3"
+    },
+    {
+      "content": "Vaseline",
+      "votes": 0,
+      "id": "RclKqzK"
+    },
+    {
+      "content": "New Anecdote",
+      "votes": 1,
+      "id": "Zj2rHbx"
+    },
+    {
+      "content": "COme on",
+      "votes": 0,
+      "id": "DmsxzbD"
     }
   ]
 }
